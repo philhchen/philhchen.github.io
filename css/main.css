@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-ul {
+header ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;
     margin: 0;
@@ -10,7 +10,7 @@ ul {
     list-style-type: none;
     font-weight: bold;
 }
-ul li {
+header ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
