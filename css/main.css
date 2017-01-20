@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
-body { width: 70%; padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
+body { margin: 60px auto; width: 70%; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
 h1, h2 { font-family: 'Merriweather', Georgia, Times;}
 ul0{
     font-family: 'Montserrat', Helvetica, sans-serif;
