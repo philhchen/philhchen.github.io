@@ -43,7 +43,8 @@ footer {
 }
 
 .cv {line-height: 23px; width: 90%; margin: 0 auto;}
-.cv li { line-height: 23px; }
+.cv ul { margin: 0;}
+.cv li { line-height: 23px; margin: 0;}
 .cv h2 { font-size: 26.5px; }
 .cv h1 { font-size: 32.5px; }
 
