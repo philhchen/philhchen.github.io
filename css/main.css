@@ -2,13 +2,15 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 0;
+    margin: 0;
     list-style: none;
+    list-style-type: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+ul li {
     display: inline;
     margin-right: 20px;
 }
