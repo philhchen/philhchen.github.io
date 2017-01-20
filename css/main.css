@@ -34,7 +34,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-p.thick {
+strong {
     font-weight: bold;
 }
 footer {
