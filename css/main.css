@@ -35,11 +35,11 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+ul {
+    margin: 0;
+    padding: 0;
 }
-
-ul.posts li {
-    list-style: none;
+li {
+    display: block;
+    width: 60px;
 }
