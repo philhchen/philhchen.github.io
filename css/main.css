@@ -1,9 +1,10 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
+h1, h2 { font-family: 'Merriweather', Georgia, Times;}
 ul0{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-size: 24px;
     padding: 0;
     margin: 0;
     list-style: none;
