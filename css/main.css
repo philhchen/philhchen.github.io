@@ -15,6 +15,19 @@ ul0 li0 {
     display: inline;
     margin-right: 20px;
 }
+ul2{
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    list-style-type: none;
+    font-weight: bold;
+}
+ul2 li2 {
+    display: inline;
+    margin-right: 20px;
+}
 a {
     text-decoration: none;
     color: #000099;
