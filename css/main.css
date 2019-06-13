@@ -1,10 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
-body { margin: 60px auto; width: 70%; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
+body { margin: 60px auto; width: 70%; font-family: 'Merriweather', Georgia, Times; font-size: 1em; }
 h1, h2 { font-family: 'Merriweather', Georgia, Times;}
 ul0{
     font-family: 'Montserrat', Helvetica, sans-serif;
-    font-size: 24px;
+    font-size: 1.5em;
     padding: 0;
     margin: 0;
     list-style: none;
@@ -17,7 +17,7 @@ ul0 li0 {
 }
 ul2{
     font-family: 'Montserrat', Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 1em;
     padding: 0;
     margin: 0;
     list-style: none;
@@ -45,11 +45,11 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: 1em;
+    font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 18px;
+    font-size: 1em;
     color: #333;
 }
 .home img {
@@ -61,7 +61,7 @@ thick {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 .cv {line-height: 23px; width: 90%; margin: 0 auto;}
