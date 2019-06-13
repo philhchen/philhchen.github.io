@@ -29,7 +29,7 @@ title: Projects
 		<center><h2>Trigger Warning</h2></center>
 		<p>
 			<center><img  src="../img/trigger-warning.png" style="width:50%"></center><br/>
-			To be updated <br/>
+			Ever accidentally offended someone or been unintentionally offended? Here's a self-updating NLP-based system to identify (and discourage) inflammatory content. There are three components to this project: The first is a data processing pipeline that downloads Tweets from the online database of Tweets, passes the Tweets through sentiment analysis software (Google and Microsoft APIs), and scores each Tweet based on the "consensus sentiment" among its replies and quotes. The second is a hybrid RNN/CNN-based model that predicts how likely a post is to elicit a negative response. We use the data processing pipeline to train the model. The third is a Chrome extension that uses the model created in the second component to recommend users to reconsider their comments or posts if the model detects a very inflammatory post. <br/>
 			<ul2>
 				<li2><a href="https://github.com/philhchen/trigger-warning" title="trigger github">Github</a></li2>
 			</ul2>
